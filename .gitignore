@@ -1,2 +1,6 @@
 /build/
 /dist/
+/CopyLibs/
+/nbproject/
+/build.xml
+/nblibraries.properties
